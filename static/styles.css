@@ -5,7 +5,7 @@
 body {
  
   /* background: linear-gradient(110deg, #ccddff 60%, #00e6ac 60%); */
-  /* background-image: url("./images/nes.gif"); */
+  background-image: url("./images/nes.gif");
   background-repeat: no-repeat;
   background-size: 100%;
   background-color: black;
@@ -13,8 +13,8 @@ body {
   margin: 0;
   text-align: center;
 
-
-  animation: colors 10s infinite;
+/* 
+  animation: colors 10s infinite; */
 
 }
 
